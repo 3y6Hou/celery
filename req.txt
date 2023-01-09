@@ -4,4 +4,6 @@ djangorestframework-simplejwt
 psycopg2-binary
 python-decouple
 celery
+django-cors-headers
 redis
+gunicorn
